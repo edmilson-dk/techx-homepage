@@ -14,7 +14,7 @@ html {
   min-height: 100vh;
 }
 
-bosy, button, h1, h2, h3 {
+bosy, button, h1, h2, h3, p {
   font-family: 'Poppins', sans-serif;
   letter-spacing: 1px;
 }
@@ -27,6 +27,7 @@ button {
   border: none;
   outline: none;
   cursor: pointer;
+  font-weight: 600;
 }
 
 img {
