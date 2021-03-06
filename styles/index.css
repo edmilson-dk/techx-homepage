@@ -65,5 +65,33 @@
   animation: logo-line-right 1s ease-in-out infinite;
 }
 
+.header__menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
 
+.header__menu button:first-child {
+  margin-right: 2rem;
+}
 
+.header__menu-btn {
+  padding: 1rem;
+  border-radius: 3rem;
+  width: 100%;
+  max-width: 160px;
+
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.header__menu-btn.signup {
+  background-color: var(--white);
+  color: var(--bg-black);
+}
+
+.header__menu-btn.signin {
+  background-color: var(--violet);
+  color: var(--white);
+}
