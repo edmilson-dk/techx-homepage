@@ -1,6 +1,6 @@
 :root {
   --bg-black: #171a2b;
-  --violet-ponk: #c333b6;
+  --violet-pink: #c333b6;
   --violet: #973bc1;
   --blue: #32a8fe;
   --green: #5bf075;
@@ -8,5 +8,5 @@
   --yellow: #f6c622;
   --white: rgba(243, 244, 245, .8);
   --br-radius: 5px;
-  --text-size: 1rem;
+  --text-size: 1.6rem;
 }
