@@ -259,6 +259,10 @@
   .banner__images-center img {
     max-width: 390px;
   }
+  
+  .banner__content > button {
+    max-width: 200px;
+  }
 }
 
 /* Footer */
