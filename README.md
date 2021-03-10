@@ -59,11 +59,3 @@ git clone https://github.com/edmilson-dk/techx-homepage
 [MIT](https://github.com/edmilson-dk/techx-homepage/blob/main/LICENSE) Project License
 
 Creator with 💙 by [Edmilson Jesus](https://www.linkedin.com/in/edmilson-jesus-4128711b5)
-=======
-# Techx Home-page
-Home-page web-site created with HTML and CSS.
-
-## Demo 
-
-[WebSite](https://edmilson-dk.github.io/techx-homepage/)
->>>>>>> d2dc639381d394eb3cc4e61a1a92ee5788a8b57c
