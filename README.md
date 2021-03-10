@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TechX - Home Page
 
 <p align="center">
