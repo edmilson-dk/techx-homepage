@@ -1,4 +1,4 @@
-# TechX - Home Page
+# TechX
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=TechX&message=Welcome&color=FFFFFF&labelColor=973bc1" alt="PRs welcome!" />
